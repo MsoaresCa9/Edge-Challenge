@@ -2,7 +2,7 @@
 # Servidor de Captura e Análise de Sinais em Tempo Real
 
 Integrantes: Caio Soares Rossini, Lucas Serrano, Pedro Henrique Nobre e Thomaz  
-RM: 555084, 557789, 55170, 557454  
+RM: 555084, 557789, 555170, 557454  
 1ESPJ
 
 ## Importância da Internet das Coisas (IoT) Atualmente
